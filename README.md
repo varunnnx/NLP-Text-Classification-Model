@@ -52,29 +52,18 @@ Evaluation: Accuracy scores, visual confusion matrices
 
 📌 Future Enhancements
 Incorporate deep learning models (LSTM, BERT)
-
 Hyperparameter tuning
-
 Use pipelines for cleaner code
 
 📎 How to Run
 Clone the repo:
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/your-repo-name.git
+
 Navigate to the directory:
-
-bash
-Copy
-Edit
 cd your-repo-name
-Run the Jupyter Notebook:
 
-bash
-Copy
-Edit
+Run the Jupyter Notebook:
 jupyter notebook NLP_text_classification_model_Github.ipynb
+
 📬 Contact
-Feel free to reach out via LinkedIn or email at your.email@example.com.
+Feel free to reach out via email at Work.varunnagpal@gmail.com.
