@@ -67,6 +67,6 @@ Launch the Jupyter Notebook:
 
 jupyter notebook NLP_text_classification_model_Github.ipynb
 🤝 Connect with Me
-📧 Email: varunnnx@gmail.com
+📧 Email: work.varunnagpal@gmail.com
 
 
