@@ -59,6 +59,14 @@ Develop a model that classifies text into categories by performing preprocessing
 ## 🚀 How to Run
 
 1. Clone the repository:
-   
+   ```bash
    git clone https://github.com/varunnnx/NLP-Text-Classification-Model.git
    cd NLP-Text-Classification-Model
+Launch the Jupyter Notebook:
+
+
+jupyter notebook NLP_text_classification_model_Github.ipynb
+🤝 Connect with Me
+📧 Email: varunnnx@gmail.com
+
+
